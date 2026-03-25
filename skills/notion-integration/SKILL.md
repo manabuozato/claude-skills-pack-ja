@@ -1,3 +1,13 @@
+---
+name: notion-integration
+description: Claude と Notion MCP を連携させるパターン集。TODO管理・日報更新・プロジェクト進捗追跡のためのユーティリティ。他スキルから参照される基盤スキル。
+---
+
+---
+name: notion-integration
+description: Claude と Notion MCP を連携させるパターン集。TODO管理・日報更新・プロジェクト進捗追跡のためのユーティリティ。他スキルから参照される基盤スキル。
+---
+
 # Notion連携スキル / Notion MCP Integration Patterns
 
 ## Description
